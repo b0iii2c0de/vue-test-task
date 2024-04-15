@@ -1,0 +1,38 @@
+[
+  {
+    "id": 300425,
+    "lastName": "Керимов",
+    "firstName": "Орхан",
+    "middleName": "Илхамович",
+    "specializationList": [
+      {
+        "id": 4
+      },
+      {
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 300421,
+    "lastName": "Прохоренкова",
+    "firstName": "Елизавета",
+    "middleName": "Алексеевна",
+    "specializationList": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 300422,
+    "lastName": "Воеводина",
+    "firstName": "Марина",
+    "middleName": "Алексеевна",
+    "specializationList": [
+      {
+        "id": 9
+      }
+    ]
+  }
+]
